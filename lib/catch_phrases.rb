@@ -9,7 +9,7 @@ def toadstool
 end
 
 def link
-  warning = "It's Dangerous To Go Alone! Take this."
+  warning = "It's Dangerous To Go Alone! Take This."
   puts warning
 end
 
